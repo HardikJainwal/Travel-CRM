@@ -1,0 +1,12 @@
+{
+  "name": "travel-agency-crm",
+  "version": "1.0.0",
+  "description": "Complete MERN Travel Agency Lead CRM for Meta Ads & WhatsApp Sales Tracking",
+  "scripts": {
+    "backend:dev": "npm --prefix backend run dev",
+    "backend:start": "npm --prefix backend run start",
+    "backend:seed": "npm --prefix backend run seed",
+    "frontend:dev": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build"
+  }
+}
